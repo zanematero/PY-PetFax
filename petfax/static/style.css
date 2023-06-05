@@ -8,3 +8,20 @@ img {
     margin: 3em;
     width: 90vw;
 }
+
+h1, form, h2, h3, a {
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+a {
+    color: black;
+    background-color: #9496cc;
+    padding: 1em;
+    border-radius: 1em;
+}
+
+a:hover {
+    color: white;
+    background-color: #cbcbec;
+}
