@@ -9,7 +9,7 @@ img {
     width: 90vw;
 }
 
-h1, form, h2, h3, a {
+h1, form, h2, h3, h4, a {
     text-decoration: none;
     font-family: sans-serif;
 }
@@ -24,4 +24,12 @@ a {
 a:hover {
     color: white;
     background-color: #cbcbec;
+}
+
+.userfact {
+    background-color: #9496cc;
+    border-radius: 1em;
+    padding: 1em;
+    height: 15vh;
+    margin: 1em;
 }
